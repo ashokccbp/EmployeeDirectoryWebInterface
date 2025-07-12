@@ -202,7 +202,8 @@ If integrating with a Java backend:
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Dashboard](screenshots/desktop-dashboard.png)
+![Desktop Dashboard]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7136993-6408-4929-94ae-dec066298e51" />
+
 *Professional dashboard with employee grid and statistics*
 
 ### Mobile View
@@ -210,11 +211,13 @@ If integrating with a Java backend:
 *Responsive mobile layout with touch-friendly interface*
 
 ### Employee Form
-![Employee Form](screenshots/employee-form.png)
+![Employee Form]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aff0a493-df34-4905-a16f-5c6d75b4f5ee" />
+
 *Modal form with real-time validation*
 
 ### Search and Filters
-![Search and Filters](screenshots/search-filters.png)
+![Search and Filters]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6805e0ee-0a7e-4502-9933-59a45fa148d6" />
+
 *Advanced search and filtering interface*
 
 ## 🤝 Contributing

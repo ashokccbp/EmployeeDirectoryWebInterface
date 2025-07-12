@@ -207,7 +207,8 @@ If integrating with a Java backend:
 *Professional dashboard with employee grid and statistics*
 
 ### Mobile View
-![Mobile Dashboard](screenshots/mobile-dashboard.png)
+![Mobile Dashboard]<img width="527" height="821" alt="Screenshot (642)" src="https://github.com/user-attachments/assets/576ff4ca-9e9f-4fd6-8b1d-fdda8e394c60" />
+
 *Responsive mobile layout with touch-friendly interface*
 
 ### Employee Form

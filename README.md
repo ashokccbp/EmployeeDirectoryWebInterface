@@ -220,6 +220,12 @@ If integrating with a Java backend:
 
 *Advanced search and filtering interface*
 
+## 🚀 Live Demo
+🔗 [View on Vercel](https://employee-directory-web-interface-kohl.vercel.app/)
+
+## 🎥 Project Walkthrough (Loom)
+📽️ [Watch Video](https://www.loom.com/share/a368e8f16390448ea57dcc168d0cb4cd?sid=f0692cfb-5523-47d1-9b26-3e1436f20201)
+
 ## 🤝 Contributing
 
 This project was built as a technical assignment to demonstrate front-end development skills. The code is organized for easy extension and modification.
